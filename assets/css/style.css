@@ -3,27 +3,28 @@
     padding: 0;
     margin: 0;
 }
-
+/*added background color to body*/
 body {
     background-color: #d9dcd6;
 }
-
+/*added padding, font family, background color and color to the header class*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*added inline block to the display and changed the font size to the header*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*changed the color in header one*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*changed the navigation bars padding, also moved it to the right, changed the 
+font size, and font family*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,16 +41,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*changed the color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*changed the font size to 16px for the paragraphs*/
 p {
     font-size: 16px;
 }
-
+/*set the height, width, and margin, also set background image, size, and postion*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*set the float to the left and right by 25px*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +69,14 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* set the content width, display and margin*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* changed the benefits class margins, colors, padding, width, height, and font 
+family for the whole aside sections*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +135,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*changed the margin by 20px, added padding by 50px, changed height, font family
+background color, and color for the next three classes*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +163,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* added height, margins and font sizes for images and headers*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -187,7 +190,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*appded padding, font family, and aligned the text in the center for the 
+footer*/
 .footer {
     padding: 30px;
     clear: both;
