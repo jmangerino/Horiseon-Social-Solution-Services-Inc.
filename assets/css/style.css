@@ -103,7 +103,7 @@ family for the whole aside sections*/
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h2 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -113,7 +113,7 @@ family for the whole aside sections*/
     text-align: center;
 }
 
-.benefit-cost h3 {
+.benefit-cost h4 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -181,12 +181,12 @@ background color, and color for the next three classes*/
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+.online-reputation-management h3 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.social-media-marketing h4 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -199,6 +199,6 @@ footer*/
     text-align: center;
 }
 
-.footer h2 {
+.footer h5 {
     font-size: 20px;
 }
